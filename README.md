@@ -16,7 +16,7 @@ This project helps us to understand the basic working of Bank accounts. Some of 
 
 **1. Clone the repository**
 ```bash
-    git clone https://github.com/divyapatil711/online-banking.git
+    https://github.com/DrashtiNavadiya/online-banking.git
 ```
 
 **2. Move to root directory of backend**
